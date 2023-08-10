@@ -1,0 +1,6 @@
+.vscode/
+dev-data/
+node_modules/
+config.env
+config2.env
+package-lock.json
